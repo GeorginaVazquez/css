@@ -1,0 +1,427 @@
+#div1{
+    width: 10%;
+    height: 10px;
+    background-color: rgb(95, 95, 95);
+    position:relative;
+    top:80px;
+    left: 90px;
+}
+#div2{
+    width:28%;
+    height:120px;
+    background-color: rgb(255, 217, 0);
+    position:absolute;
+    top:150px;
+    left: 60px;
+}
+.texto{ /* BUENA COMIDA, BUEN HUMOR */
+    position:absolute;
+    text-align: left;
+    font-size: 90px ;
+    color:black;
+    font-family:Impact;
+    left: 90px;
+}
+.divimg1{
+    width: 30%;
+    height: 500px;
+    position:absolute;
+    left: 750px;
+    top: 80px;
+}
+.texto2{ /*... Mr. Natural's Good Food Store */
+    position:absolute;
+    text-align: left;
+    font-size: 20px ;
+    color:black;
+    font-family:Open;
+    left: 90px;
+    top:320px;
+}
+#div3{
+    width:5px;
+    height:200px;
+    background-color: rgb(255, 217, 0);
+    position:absolute;
+    top:340px;
+    left: 460px;
+}
+.texto3{ /*... The Good Food Store */
+    position:absolute;
+    text-align: left;
+    font-size: 18px ;
+    color:gray;
+    font-family:Open;
+    left: 470px;
+    top:325px;
+    font-style: italic;
+}
+.textoread{ /*...Read More */
+    position:absolute;
+    text-align: left;
+    font-size: 15px ;
+    color:black;
+    font-family:Open;
+    left: 90px;
+    top:530px;
+    font-style: italic;
+}
+#div4{
+    width:5%;
+    height:4px;
+    background-color: rgb(255, 217, 0);
+    position:absolute;
+    top:562px;
+    left: 88px;
+}
+#div5{
+    width:5px;
+    height:220px;
+    background-color: rgb(255, 217, 0);
+    position:absolute;
+    top:770px;
+    left: 88px;
+}
+.texto4{ /* ELEGIR BUENO ES MÁS FÁCIL. */
+    position:absolute;
+    text-align: left;
+    font-size: 35px ;
+    color:black;
+    font-family:Impact;
+    left:200px;
+    top:750px;
+}
+#div6{
+    width:500px;
+    height:300px;
+    background-color: rgb(238, 238, 238);
+    position:absolute;
+    top:750px;
+    left: 700px;
+}
+.texto5{ /*Nuestra carne de...*/
+    position:absolute;
+    text-align: left;
+    font-size: 20px ;
+    color:black;
+    font-family: Calibri ;
+    left: 200px;
+    top:850px;
+}
+.divimg2{ /* Imagen 2 */
+    width: 10%;
+    height: 10px;
+    position:absolute;
+    left: 100px;
+    top: 1200px;
+}
+.divimg3{ /*Imagen 3*/
+    width: 10%;
+    height: 10px;
+    position:absolute;
+    left: 100px;
+    top: 1460px;
+}
+.divimg4{ /* Imagen 4 */
+    width: 15%;
+    height: 1px;
+    position:absolute;
+    left: 200px;
+    top: 1800px;
+}
+.texto6{ /* Carne título */
+    position:absolute;
+    text-align: center;
+    font-size: 28px ;
+    color:black;
+    font-family:Impact;
+    left:210px;
+    top:1875px;
+}
+.texto7{ /*Carne texto*/
+    position:absolute;
+    text-align: center;
+    font-size: 18px ;
+    color:black;
+    font-family: Calibri ;
+    left: 95px;
+    top:1910px;
+}
+.texto8{ /* Pez título */
+    position:absolute;
+    text-align: center;
+    font-size: 28px ;
+    color:black;
+    font-family:Impact;
+    left:630px;
+    top:1875px;
+}
+.texto9{ /*Pez texto*/
+    position:absolute;
+    text-align: center;
+    font-size: 18px ;
+    color:black;
+    font-family: Calibri ;
+    left: 500px;
+    top: 1910px;
+}
+.texto10{ /* Vegetales título */
+    position:absolute;
+    text-align: left;
+    font-size: 28px ;
+    color:black;
+    font-family:Impact;
+    left:975px;
+    top:1875px;
+}
+.texto11{ /*Vegetales texto*/
+    position:absolute;
+    text-align: center;
+    font-size: 18px ;
+    color:black;
+    font-family: Calibri ;
+    left: 880px;
+    top:1910px;
+}
+.divimg5{ /*Imagen 5*/
+    width: 15%;
+    height: 1px;
+    position:absolute;
+    left: 200px;
+    top: 2110px;
+}
+.texto12{ /* Frutas título */
+    position:absolute;
+    text-align: center;
+    font-size: 28px ;
+    color:black;
+    font-family:Impact;
+    left:230px;
+    top:2185px;
+}
+.texto13{ /*Frutas texto*/
+    position:absolute;
+    text-align: center;
+    font-size: 18px ;
+    color:black;
+    font-family: Calibri ;
+    left: 95px;
+    top:2220px;
+}
+.texto14{ /* Dulces título */
+    position:absolute;
+    text-align: center;
+    font-size: 28px ;
+    color:black;
+    font-family:Impact;
+    left:615px;
+    top:2185px;
+}
+.texto15{ /*Dulces texto*/
+    position:absolute;
+    text-align: center;
+    font-size: 18px ;
+    color:black;
+    font-family: Calibri ;
+    left: 500px;
+    top: 2220px;
+}
+.texto16{ /* Jugo título */
+    position:absolute;
+    text-align: left;
+    font-size: 28px ;
+    color:black;
+    font-family:Impact;
+    left:1020px;
+    top:2185px;
+}
+.texto17{ /*Jugo texto*/
+    position:absolute;
+    text-align: center;
+    font-size: 18px ;
+    color:black;
+    font-family: Calibri ;
+    left: 880px;
+    top:2220px;
+}
+.divimg6{ /*Imagen 6*/
+    width: 30%;
+    height: 500px;
+    position:absolute;
+    left: 650px;
+    top: 2400px;
+}
+#div7{
+    width:20%;
+    height:100px;
+    background-color: rgb(255, 217, 0);
+    position:absolute;
+    left: 350px;
+    top:2600px;
+}
+.texto18{ /* COMER BIEN DEBE SABER BIEN, TAMBIÉN. */
+    position:absolute;
+    text-align: left;
+    font-size: 35px ;
+    color:black;
+    font-family:Impact;
+    left: 100px;
+    top:2580px;
+}
+.texto19{ /*Por eso nuestras recetas... */
+    position:absolute;
+    text-align: left;
+    font-size: 17px ;
+    font-family:Calibri;
+    left: 100px;
+    top:2700px;
+}
+.textoread2{ /*...Read More */
+    position:absolute;
+    text-align: left;
+    font-size: 15px ;
+    color:black;
+    font-family:Open;
+    left: 100px;
+    top:2850px;
+    font-style: italic;
+}
+#div8{
+    width:5%;
+    height:4px;
+    background-color: rgb(255, 217, 0);
+    position:absolute;
+    top:2880px;
+    left: 100px;
+}
+#div9{
+    width:20%;
+    height:100px;
+    background-color: rgb(255, 217, 0);
+    position:absolute;
+    right: 180px;
+    top:3100px;
+}
+.texto20{ /* COMER BIEN DEBE SER SIMPLE. */
+    position:absolute;
+    text-align: left;
+    font-size: 35px ;
+    color:black;
+    font-family:Impact;
+    right: 400px;
+    top:3075px;
+}
+.texto21{ /*Sin embargo, es difícil encontrar...*/
+    position:absolute;
+    text-align: left;
+    font-size: 17px ;
+    font-family:Calibri;
+    left: 700px;
+    top:3205px;
+} 
+.textoread3{ /*Read More */
+    position:absolute;
+    text-align: left;
+    font-size: 15px ;
+    color:black;
+    font-family:Open;
+    left: 700px;
+    top:3390px;
+    font-style: italic;
+}
+#div10{
+    width:5%;
+    height:4px;
+    background-color: rgb(255, 217, 0);
+    position:absolute;
+    top:3420px;
+    left: 700px
+}
+.divimg7{ /*Imagen 7*/
+    width: 30%;
+    height: 500px;
+    position:absolute;
+    left: 100px;
+    top: 2950px;
+}
+#div11{
+    width:500px;
+    height:330px;
+    background-color: rgb(238, 238, 238);
+    position:absolute;
+    top:3580px;
+    right: 150px;
+}
+.divimg8{ /*Imagen 8*/
+    width: 30%;
+    height: 500px;
+    position:absolute;
+    left: 300px;
+    top: 3620px;
+}
+.texto22{ /*Texto comillas*/
+    position:absolute;
+    text-align: left;
+    font-size: 16px ;
+    font-family:Calibri;
+    left: 150px;
+    top:3670px;
+    font-style: italic;
+}
+.texto23{ /* Jack Alvarez */
+    position:absolute;
+    text-align: left;
+    font-size: 30px ;
+    color:black;
+    font-family:Impact;
+    left: 150px;
+    top:3750px;
+    font-style: bold;
+}
+.texto24{ /* Contador jefe */
+    position:absolute;
+    text-align: left;
+    font-size: 17px ;
+    color:black;
+    font-family:Calibri;
+    left: 150px;
+    top:3800px;
+    font-style: italic;
+} 
+#div12{
+    width:1150px;
+    height:100px;
+    background-color: rgb(56, 56, 56);
+    position:absolute;
+    top:4000px;
+    left: 100px;
+}
+.texto25{ /* Template */
+    position:absolute;
+    text-align: left;
+    font-size: 13px ;
+    color:rgb(255, 217, 0);
+    font-family:Arial;
+    left: 580px;
+    top:4025px;
+    text-decoration:underline ;
+}
+.texto26{ /* creado con*/
+    position:absolute;
+    text-align: left;
+    font-size: 13px ;
+    color:white;
+    font-family:Arial;
+    left: 640px;
+    top:4025px;
+}
+.texto27{ /*  Nicepage. */
+    position:absolute;
+    text-align: left;
+    font-size: 13px ;
+    color:rgb(255, 217, 0);
+    font-family:Arial;
+    left: 710px;
+    top:4025px;
+    text-decoration:underline ;
+}
